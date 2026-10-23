@@ -14,19 +14,14 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hi! My name is Bryan and I am a current graduate student in the MSISPM program. My time at CMU has been filled with a lot learning focused on cybersecurity and business topics. I am deeply passionate about both topics. I have a goal of being in a position that is at the intersection of technology and business. I have previously worked as a Technical Project Management intern with a focus on infrastructure and cybersecurity. During this period, I led technical projects, tracked employee bandwidth, documented project progress, and presented to C-level executives, while also working on the Identity and Access Management team. Within the IAM team, I executed and validated 85,000+ automated security remediations across the companies' environment. My time as an intern was keen for my growth and helped me learn a lot. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I am hoping to learn how to effectively communicate data in a manner that people will retain. Upon graduating, I will be joining an information technology rotational program. The purpose of this program is develop the next generation of leaders. I want to develop my data communication skills in order to become an effective leader in the future. 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
+Learning list for this class: 
+1. How to properly communicate data in the most simplified way
+2. How to use color effectively in dashboards
+3. How to make data results stick
+4. How to create quality dashboards
+5. How to pitch my data
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
