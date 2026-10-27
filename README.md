@@ -8,7 +8,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+
+## Visualizing Government Debt
+
+## Critique By Design
+
+## Final Project Part I
+
+## Final Project Part II
+
+## Final Project Part II
 
 # About me
 Hi! My name is Bryan and I am a current graduate student in the MSISPM program. My time at CMU has been filled with a lot learning focused on cybersecurity and business topics. I am deeply passionate about both topics. I have a goal of being in a position that is at the intersection of technology and business. I have previously worked as a Technical Project Management intern with a focus on infrastructure and cybersecurity. During this period, I led technical projects, tracked employee bandwidth, documented project progress, and presented to C-level executives, while also working on the Identity and Access Management team. Within the IAM team, I executed and validated 85,000+ automated security remediations across the companies' environment. My time as an intern was keen for my growth and helped me learn a lot. 
