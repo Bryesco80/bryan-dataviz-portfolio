@@ -27,7 +27,11 @@ _Answer: Based on my critique, I will try to focus on communicating the data in 
 
 ## Step three: Sketch a solution
 
+_First sketch:_
 ![Original Visualization](Screenshot%202026-11-12%20220630.png)
+
+_Second sketch:_
+![Visualization Screenshot](Screenshot%202026-11-12%20221003.png)
 
 ## Step four: Test the solution
 
