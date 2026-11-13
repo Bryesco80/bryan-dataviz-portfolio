@@ -27,6 +27,8 @@ _Answer: Based on my critique, I will try to focus on communicating the data in 
 
 ## Step three: Sketch a solution
 
+![Original Visualization](Screenshot%202026-11-12%20220630.png)
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
