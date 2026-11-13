@@ -17,8 +17,8 @@ I think my final redesign makes it easier to compare alcohol consumption between
 
 ## Step one: the visualization
 
-_Link: https://makeovermonday.vercel.app/dataset/2023w27_
-_Data Source: https://www.oecd.org/en/data/indicators/alcohol-consumption.html_
+Link: https://makeovermonday.vercel.app/dataset/2023w27
+Data Source: https://www.oecd.org/en/data/indicators/alcohol-consumption.html
 
 ## Step two: the critique
 _Question: Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?_
@@ -43,9 +43,9 @@ _Second sketch:_
 
 ## Step four: Test the solution
 
-_The feedback I received was positive about the story I was trying to tell with my visualization. Both people liked that I used different colors to show which countries experienced an increase or decrease in alcohol consumption. They thought this made it easier to understand what the data was showing.
+The feedback I received was positive about the story I was trying to tell with my visualization. Both people liked that I used different colors to show which countries experienced an increase or decrease in alcohol consumption. They thought this made it easier to understand what the data was showing.
 
-One issue that came up was that they had a hard time understanding what the measurements represented. Even though I included liters per capita in the subtitle, it was not clear enough for them. Based on this feedback, I decided to include the measurement next to each value in my final redesign. I also kept the different colors because they both thought it was a good way to show the changes in alcohol consumption._
+One issue that came up was that they had a hard time understanding what the measurements represented. Even though I included liters per capita in the subtitle, it was not clear enough for them. Based on this feedback, I decided to include the measurement next to each value in my final redesign. I also kept the different colors because they both thought it was a good way to show the changes in alcohol consumption.
 
 ## Step five: build the solution
 ![Visualization Screenshot](Screenshot%202026-11-12%20225328.png)
@@ -59,7 +59,7 @@ One issue that came up was that they had a hard time understanding what the meas
 </script>
 
 ## References
-_Makeover Monday. (2023). *2023 Week 27 dataset*. https://makeovermonday.vercel.app/dataset/2023w27_
+_Makeover Monday. (2023). 2023 Week 27 dataset. https://makeovermonday.vercel.app/dataset/2023w27_
 _OECD, Alcohol consumption indicator. https://www.oecd.org/en/data/indicators/alcohol-consumption.html_
 
 ## AI acknowledgements
