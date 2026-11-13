@@ -1,11 +1,19 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Are The OECD's Biggest Drinking Countries Cutting Back?
-Text here...
+_Thought Process:_ 
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+I experimented with different visualization formats in Tableau, including tables and bar charts, to see which one would work best for my redesign. After trying different formats, I decided to use line charts because I thought they would be a good way to show how alcohol consumption changed over time. I wanted to compare alcohol consumption over a ten-year period to see which countries experienced an increase or decrease.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+My first design included data from 2013 to 2023, but I noticed that the dataset contained over 50 countries. I thought including all of them would make the visualization too crowded and difficult to understand. Because of this, I decided to narrow it down to eight countries with high alcohol consumption levels.
+
+For my second design, I decided to only show the consumption levels for 2013 and 2023 instead of including every year in between. I also added labels to show the exact values for each country. I thought this made it easier to see how much alcohol consumption had changed over the ten-year period.
+
+For my final redesign, I kept the same format as my second sketch but made a few changes to make the visualization easier to understand. I added two different colors to show which countries experienced an increase or decrease in alcohol consumption. I also changed the order of the countries and updated the title and subtitle to better explain what the data was showing.
+
+Something I found interesting was that alcohol consumption did not decrease in every country. Lithuania experienced a decrease from 14.5 to 11.0 litres per capita, while Latvia increased from 10.4 to 11.7 litres per capita. I thought this was interesting because it showed that the countries did not all follow the same trend.
+
+I think my final redesign makes it easier to compare alcohol consumption between 2013 and 2023. By focusing on eight countries instead of showing all 50 or more, I was able to make the visualization less crowded. Using different colors also made it easier to identify which countries increased or decreased their alcohol consumption without having to compare every value individually.
 
 ## Step one: the visualization
 
