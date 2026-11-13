@@ -43,34 +43,9 @@ _Second sketch:_
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+_The feedback I received was positive about the story I was trying to tell with my visualization. Both people liked that I used different colors to show which countries experienced an increase or decrease in alcohol consumption. They thought this made it easier to understand what the data was showing.
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+One issue that came up was that they had a hard time understanding what the measurements represented. Even though I included liters per capita in the subtitle, it was not clear enough for them. Based on this feedback, I decided to include the measurement next to each value in my final redesign. I also kept the different colors because they both thought it was a good way to show the changes in alcohol consumption._
 
 ## Step five: build the solution
 
