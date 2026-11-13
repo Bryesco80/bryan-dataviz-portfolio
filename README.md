@@ -12,7 +12,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 ## Visualizing Government Debt
 
 ## Critique By Design
-
+_- Original Visualization_
+_- Critique of Original Visualization_
+_- Sketched Solution_
+_- Tested Solution_
+_- Built Solution_
 ## Final Project Part I
 
 ## Final Project Part II
