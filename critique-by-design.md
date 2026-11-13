@@ -78,8 +78,9 @@ _Include and describe your final solution here. It's also a good idea to summari
 </script>
 
 ## References
-_List any references you used here._
+_Makeover Monday. (2023). *2023 Week 27 dataset*. https://makeovermonday.vercel.app/dataset/2023w27_
+_OECD, Alcohol consumption indicator. https://www.oecd.org/en/data/indicators/alcohol-consumption.html_
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_AI wasn't used to help me complete this assignment_
 
