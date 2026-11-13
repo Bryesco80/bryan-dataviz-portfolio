@@ -13,7 +13,17 @@ _Link: https://makeovermonday.vercel.app/dataset/2023w27_
 _Data Source: https://www.oecd.org/en/data/indicators/alcohol-consumption.html_
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+_Question: Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?_
+
+_Answer: My overall observation for the data visualization was that it wasn't good. I had trouble understanding what the data visualization was trying to communicate. The title and the data visual contradict itself. The title of "Alcohol Consumption in OECD Countries" prompted me to think the data would show a comparison between OECD Countries. The dataviz showed a lot of lines, to represent OECD countries, but it left off the countries names and were colored grey. It also highlighted New Zealand, by highlighting its respective line with the color red, but I had no idea why it was highlighted compared to the other countries. I liked the title, y-axis (Alcohol Consumption measurement), and x-axis (Year). They're easy to understand and intuitive. It would help to have the type of measurement used on the y-axis for clarity._
+
+_Question: Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?_
+
+_Answer: The primary audience for this tool is policy makers and public health officials in OECD countries. I do not think that the visualization is effective for reaching that audience because it doesn't include the names of countries in the data, except New Zealand. It would be hard to distinguish individual OECD countries in the data._
+
+_Question: Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next?_
+
+_Answer: Based on my critique, I will try to focus on communicating the data in a simpler way. My plan is to try to understand why New Zealand was highlighted in the data. If I can find why, I'll try to communicate that, so the reader can understand what the original data was trying to convey. I'd change the title and add a subtitle for more context. If I can't find the importance of New Zealand, I will likely change the visual to a horizontal bar chart to compare alcohol consumption in OECD Countries in an easier manner. I'll edit the bar charts to be in descending order. I will also add the names of the countries to each bar, rather than leaving them blank. I will also add the specific measurement used for alcohol consumption to the y-axis. I'm excited to see how the visual will look like after the formatted changes. I'm hoping to make the visualization easier to understand for the reader._
 
 ## Step three: Sketch a solution
 
