@@ -9,8 +9,8 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-Link: https://makeovermonday.vercel.app/dataset/2023w27
-Data Source: https://www.oecd.org/en/data/indicators/alcohol-consumption.html
+_Link: https://makeovermonday.vercel.app/dataset/2023w27_
+_Data Source: https://www.oecd.org/en/data/indicators/alcohol-consumption.html_
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
