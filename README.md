@@ -42,9 +42,17 @@ Are The OECD's Biggest Drinking Countries Cutting Back?
 Alcohol consumption trends among eight OECD countries from 2013 to 2023, measure in litres per capita.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
+## Final project
+
+For my final project, I will be exploring the potential dangers of artificial intelligence using data from the AI, Algorithmic and Automation Incidents and Controversies (AIAAIC) Repository. I plan to analyze incidents involving AI to identify patterns across different sectors, the ethical issues involved, and the types of systems responsible. My goal is to show how AI can negatively impact people and encourage individuals to become more informed about how these technologies are being used.
+
+[Final Project Outline and Initial Sketches](final_project_tim.md)
+
+[Part I](#) | [Part II](#) | [Part III](#)
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI wasn't used for this assignment. 
 
