@@ -35,9 +35,7 @@ I plan to focus on incidents between 2018 and 2025 to better understand how docu
 |AIAAIC Repository|https://docs.google.com/spreadsheets/d/1Bn55B4xz21-_Rgdr8BBb2lt0n_4rzLGxFADMlVW0PYI/edit?gid=1051812323#gid=1051812323|
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use Tableau to create my data visualizations and Shorthand to present my final project. I will use Tableau to analyze the dataset and create charts that highlight patterns in AI-related incidents. Shorthand will allow me to combine these visualizations with explanations to tell a story that is easy for a non-technical audience to understand.
 
 ## References
 _List any references you used here._
