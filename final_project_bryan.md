@@ -27,8 +27,7 @@ Text here...
 
 My primary data source will be the AI, Algorithmic and Automation Incidents and Controversies (AIAAIC) Repository. This repository documents incidents involving artificial intelligence and automated systems in the real world. The dataset includes information about when incidents occurred and which sectors were impacted. It also provides details about the AI systems involved and the ethical issues associated with each incident.
 I plan to focus on incidents between 2018 and 2025 to better understand how documented AI-related incidents have changed in recent years. I will use the data to compare the number of incidents across different sectors and identify the most common ethical issues. I will also examine the types of AI systems involved to see if there are any patterns in the data. Since the repository only includes documented incidents, I understand that it may not represent every AI-related incident that has occurred.
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+ 
 
 | Name | URL |
 |------|-----|
