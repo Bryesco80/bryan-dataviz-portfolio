@@ -19,9 +19,18 @@ I will examine the types of AI systems involved in documented incidents. This se
 I will summarize the main findings from my visualizations and explain what they tell us about the potential dangers of AI. I want my audience to understand how AI can negatively impact people and why these concerns should not be overlooked. I will end my project with a call to action that encourages individuals to become more informed about AI and question how these technologies are being used in their everyday lives.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+### Sketch 1
+![Sketch 1](IMG_6586.jpeg)
+
+### Sketch 2
+![Sketch 2](IMG_6592.jpeg)
+
+### Sketch 3
+![Sketch 3](IMG_6593.jpeg)
+
+### Sketch 4
+![Sketch 4](IMG_6596.jpeg)
 
 # The data
 
