@@ -30,20 +30,13 @@ For my data visualization final project, I created a story about the potential d
 
 ## Interview findings
 
-| Questions               | Interview Feedback |
-
+| Questions | Interview Feedback |
 | What do you think is the main message of the story? | The story communicates the potential dangers of AI in the real world and how different industries have been impacted. The overall message was easy to understand. |
-
 |  Were any of the charts difficult to understand? If so, which ones and why? | Some charts contained too many categories, making them difficult to read. Grouping similar categories would make the visualizations easier to understand. |  
-
 | Was there too much information displayed in any of the visualizations? | Some visualizations included more information than necessary. Focusing on the top 10 categories would help readers identify the most important findings. |
-
 | Was there a point where you lost interest or felt that the story became repetitive? | No specific concerns about engagement or repetition were mentioned in the feedback provided. |  
-
 | Did the story change how you think about the potential dangers of AI? | The feedback provided did not specifically address whether the story changed participants' views about AI. |    
-
 | What is one thing you would change to make the story easier to understand? | Change the titles from questions to statements that communicate the main findings. This would help readers understand the purpose of each visualization. |  
-
 
 
 # Identified changes for Part III
