@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Bryan's Final Project Pt. 1](final_project_bryan.md) | [final project II](final-project-part-II-bryan.md) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Bryan's Final Project Pt. 1](final_project_bryan.md) | [Bryan's Final Project Pt.2](final-project-part-II-bryan.md) | [final project III](final-project-part-three) |
 
 # Portfolio
 
