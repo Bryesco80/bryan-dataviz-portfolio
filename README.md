@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Bryan's Final Project Pt. 1](final_project_bryan.md) | [final project II](bryan-final-project-part-II) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [Bryan's Final Project Pt. 1](final_project_bryan.md) | [final project II](final-project-part-II-bryan.md) | [final project III](final-project-part-three) |
 
 # Portfolio
 
@@ -46,6 +46,7 @@ Alcohol consumption trends among eight OECD countries from 2013 to 2023, measure
 For my final project, I will be exploring the potential dangers of artificial intelligence using data from the AI, Algorithmic and Automation Incidents and Controversies (AIAAIC) Repository. I plan to analyze incidents involving AI to identify patterns across different sectors, the ethical issues involved, and the types of systems responsible. My goal is to show how AI can negatively impact people and encourage individuals to become more informed about how these technologies are being used.
 
 [Final Project Outline and Initial Sketches](final_project_bryan.md)
+[Final Project Wireframes/Storyboards](final-project-part-II-bryan.md)
 
 
 AI wasn't used for this assignment. 
